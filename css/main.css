@@ -244,7 +244,7 @@ h2
   .book-block
 	{
 		width:100%;
-		padding:40% 0px;
+		padding:50% 0px;
 	}
 
 	.book-block .content
@@ -291,8 +291,8 @@ h2
 
 	.fadein
 	{
-		height:365px;
-		width:360px;
+		height:265px;
+		width:290px;
 	}
 
 	.fadein img
