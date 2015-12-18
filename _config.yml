@@ -2,7 +2,7 @@
 title: Books @ Stockflare
 email: info@stockflare.com
 description: "Books @ Stockflare is a great list of the best books in finance and investing. It's what we recommend to anyone novice or professional."
-baseurl: "https://stockflare.com"
+baseurl: ""
 url: "http://books.stockflare.com"
 
 # Build settings
